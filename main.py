@@ -158,7 +158,7 @@ def send_message(to_user, access_token, city_name, weather, max_temperature, min
                 "color": get_color()
             },
             "love_day": {
-                "value": "我们已经在一起"+love_days+"天了哦\n\n"+"今天也要好好爱老公嗷",
+                "value": "我们已经在一起"+love_days+"天了哦\n\n"+"今天也要好好爱老公嗷\n",
                 "color": get_color()
             },
             "note_en": {
