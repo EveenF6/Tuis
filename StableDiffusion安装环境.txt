@@ -1,0 +1,24 @@
+显存大于8g
+固态硬盘 大于 100g
+
+
+一共3个文件
+1.可选 controlnet
+2.启动器运行依赖.exe
+3.sd-webui-aki-V4.6.1.7z(启动器压缩包)
+
+安装步骤
+1.安装运行依赖(一直下一步)
+2.解压启动器
+3.可选 把controlnet-模型文件夹里的模型复制到sdwebui(启动器根目录)\models\controlnet文件夹里
+	    把ontrolnet-download文件夹直接复制到sdwebui(启动器根目录)\extensions\sd-webui-contronet\annotator
+	    全部选替换
+
+
+
+打开:
+双击打开 A启动器
+启动器中->一键启动
+
+
+常用大模型\loRA模型下载网址:https://civitai.com/(需要挂梯子)
